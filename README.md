@@ -1,2 +1,2 @@
 # Pyramid Challenge
-Code for challenges given by SCLA Urban TXT.
+Code and assets for the pyramid challenge given by SCLA Urban TXT.
